@@ -1,4 +1,3 @@
 # 100_days_of_python
-by Dr. Angela Yu
-hi
-i made first commit succesfully
+
+Course by Dr. Angela Yu on udemy
